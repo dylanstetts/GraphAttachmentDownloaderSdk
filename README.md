@@ -3,15 +3,16 @@
 A .NET console application that connects to Microsoft Graph API to download email attachments (especially .eml and .msg) from a specified user’s mailbox. It supports downloading both file and item attachments, and exports metadata in JSON and CSV formats.
 
 ## Features
-- Authenticates with Microsoft Graph using client credentials
-- Retrieves recent messages with attachments
+- Authenticates with Microsoft Graph using `Azure.Identity` (`ClientSecretCredential`)
+- Uses Microsoft Graph SDK v5+ for message and attachment access
 - Downloads:
   - File attachments (e.g., PDFs, images)
-  - Embedded item attachments (e.g., `.eml` files)
+  - Embedded item attachments (`.eml`) using raw HTTP fallback
 - Logs processing details using Serilog
 - Exports attachment metadata to:
   - `attachment_metadata.json`
   - `attachment_metadata.csv`
+
 
 ## Prerequisites
 
