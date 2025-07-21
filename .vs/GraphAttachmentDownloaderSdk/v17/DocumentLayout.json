@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dylanstetts\\Downloads\\Scripts\\.NET\\GraphAttachmentDownloaderSdk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD7E74C8-BA84-4EAF-86C8-25A25E16D511}|GraphAttachmentDownloaderSdk.csproj|c:\\users\\dylanstetts\\downloads\\scripts\\.net\\graphattachmentdownloadersdk\\models\\attachmentmetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD7E74C8-BA84-4EAF-86C8-25A25E16D511}|GraphAttachmentDownloaderSdk.csproj|solutionrelative:models\\attachmentmetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD7E74C8-BA84-4EAF-86C8-25A25E16D511}|GraphAttachmentDownloaderSdk.csproj|c:\\users\\dylanstetts\\downloads\\scripts\\.net\\graphattachmentdownloadersdk\\services\\attachmentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD7E74C8-BA84-4EAF-86C8-25A25E16D511}|GraphAttachmentDownloaderSdk.csproj|solutionrelative:services\\attachmentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD7E74C8-BA84-4EAF-86C8-25A25E16D511}|GraphAttachmentDownloaderSdk.csproj|c:\\users\\dylanstetts\\downloads\\scripts\\.net\\graphattachmentdownloadersdk\\services\\graphclientfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD7E74C8-BA84-4EAF-86C8-25A25E16D511}|GraphAttachmentDownloaderSdk.csproj|solutionrelative:services\\graphclientfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD7E74C8-BA84-4EAF-86C8-25A25E16D511}|GraphAttachmentDownloaderSdk.csproj|c:\\users\\dylanstetts\\downloads\\scripts\\.net\\graphattachmentdownloadersdk\\utils\\metadataexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD7E74C8-BA84-4EAF-86C8-25A25E16D511}|GraphAttachmentDownloaderSdk.csproj|solutionrelative:utils\\metadataexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD7E74C8-BA84-4EAF-86C8-25A25E16D511}|GraphAttachmentDownloaderSdk.csproj|c:\\users\\dylanstetts\\downloads\\scripts\\.net\\graphattachmentdownloadersdk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD7E74C8-BA84-4EAF-86C8-25A25E16D511}|GraphAttachmentDownloaderSdk.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD7E74C8-BA84-4EAF-86C8-25A25E16D511}|GraphAttachmentDownloaderSdk.csproj|c:\\users\\dylanstetts\\downloads\\scripts\\.net\\graphattachmentdownloadersdk\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BD7E74C8-BA84-4EAF-86C8-25A25E16D511}|GraphAttachmentDownloaderSdk.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD7E74C8-BA84-4EAF-86C8-25A25E16D511}|GraphAttachmentDownloaderSdk.csproj|c:\\users\\dylanstetts\\downloads\\scripts\\.net\\graphattachmentdownloadersdk\\graphattachmentdownloadersdk.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BD7E74C8-BA84-4EAF-86C8-25A25E16D511}|GraphAttachmentDownloaderSdk.csproj|solutionrelative:graphattachmentdownloadersdk.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MetadataExporter.cs",
+              "DocumentMoniker": "C:\\Users\\dylanstetts\\Downloads\\Scripts\\.NET\\GraphAttachmentDownloaderSdk\\Utils\\MetadataExporter.cs",
+              "RelativeDocumentMoniker": "Utils\\MetadataExporter.cs",
+              "ToolTip": "C:\\Users\\dylanstetts\\Downloads\\Scripts\\.NET\\GraphAttachmentDownloaderSdk\\Utils\\MetadataExporter.cs",
+              "RelativeToolTip": "Utils\\MetadataExporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T18:40:07.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AttachmentMetadata.cs",
+              "DocumentMoniker": "C:\\Users\\dylanstetts\\Downloads\\Scripts\\.NET\\GraphAttachmentDownloaderSdk\\Models\\AttachmentMetadata.cs",
+              "RelativeDocumentMoniker": "Models\\AttachmentMetadata.cs",
+              "ToolTip": "C:\\Users\\dylanstetts\\Downloads\\Scripts\\.NET\\GraphAttachmentDownloaderSdk\\Models\\AttachmentMetadata.cs",
+              "RelativeToolTip": "Models\\AttachmentMetadata.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T18:39:26.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GraphAttachmentDownloaderSdk",
+              "DocumentMoniker": "C:\\Users\\dylanstetts\\Downloads\\Scripts\\.NET\\GraphAttachmentDownloaderSdk\\GraphAttachmentDownloaderSdk.csproj",
+              "RelativeDocumentMoniker": "GraphAttachmentDownloaderSdk.csproj",
+              "ToolTip": "C:\\Users\\dylanstetts\\Downloads\\Scripts\\.NET\\GraphAttachmentDownloaderSdk\\GraphAttachmentDownloaderSdk.csproj",
+              "RelativeToolTip": "GraphAttachmentDownloaderSdk.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-21T18:39:11.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AttachmentProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\dylanstetts\\Downloads\\Scripts\\.NET\\GraphAttachmentDownloaderSdk\\Services\\AttachmentProcessor.cs",
+              "RelativeDocumentMoniker": "Services\\AttachmentProcessor.cs",
+              "ToolTip": "C:\\Users\\dylanstetts\\Downloads\\Scripts\\.NET\\GraphAttachmentDownloaderSdk\\Services\\AttachmentProcessor.cs",
+              "RelativeToolTip": "Services\\AttachmentProcessor.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T18:38:30.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GraphClientFactory.cs",
+              "DocumentMoniker": "C:\\Users\\dylanstetts\\Downloads\\Scripts\\.NET\\GraphAttachmentDownloaderSdk\\Services\\GraphClientFactory.cs",
+              "RelativeDocumentMoniker": "Services\\GraphClientFactory.cs",
+              "ToolTip": "C:\\Users\\dylanstetts\\Downloads\\Scripts\\.NET\\GraphAttachmentDownloaderSdk\\Services\\GraphClientFactory.cs",
+              "RelativeToolTip": "Services\\GraphClientFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T18:38:19.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dylanstetts\\Downloads\\Scripts\\.NET\\GraphAttachmentDownloaderSdk\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\dylanstetts\\Downloads\\Scripts\\.NET\\GraphAttachmentDownloaderSdk\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-21T18:37:42.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dylanstetts\\Downloads\\Scripts\\.NET\\GraphAttachmentDownloaderSdk\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\dylanstetts\\Downloads\\Scripts\\.NET\\GraphAttachmentDownloaderSdk\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T18:35:54.546Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
